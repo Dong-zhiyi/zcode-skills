@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 工作文件（ZCode 临时文件统一放 _work/）
+_work/
+
+# OS
+.DS_Store
+Thumbs.db
